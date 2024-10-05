@@ -50,7 +50,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 <h2>Diagramas</h2>
 <h3>Diagrama de Classes</h3>
-<img src="mer.png" alt="Diagrama de Classes">
+<img src="Mer.png" alt="Diagrama de Classes">
 
 <h3>Diagrama de Entidade-Relacionamento (DER)</h3>
 <img src="der.png" alt="Diagrama de Entidade-Relacionamento (DER)">
