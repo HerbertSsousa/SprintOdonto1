@@ -24,7 +24,7 @@
 <h3>Passos para Rodar:</h3>
 <ol>
   <li>Clone o repositório do GitHub:
-    <pre><code>git clone https://github.com/seu-usuario/repositorio.git</code></pre>
+    <pre><code>git clone https://github.com/HerbertSsousa/SprintOdonto1.git</code></pre>
   </li>
   <li>Navegue até a pasta do projeto:
     <pre><code>cd nome-do-projeto</code></pre>
@@ -98,4 +98,5 @@ Abaixo estão os endpoints disponíveis para testar os controladores fornecidos,
 - **PUT** `/erros/{id}`: Atualiza um erro existente.
 - **DELETE** `/erros/{id}`: Deleta um erro existente.
 
-
+##Link do Github
+https://github.com/HerbertSsousa/SprintOdonto1
